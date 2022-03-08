@@ -5,7 +5,7 @@ import time
 from selenium import webdriver
 
 
-PATH = "/Users/damiantworek/projects/PyCharmProjects/mushrooms/chromedriver"  # set path to webdriver
+PATH = ""  # SET YOUR PATH TO CHROME DRIVER/WEB DRIVER
 GOOGLE_IMAGE = 'https://www.google.com/search?site=&tbm=isch&source=hp&biw=1873&bih=990&'
 
 
